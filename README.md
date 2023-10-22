@@ -1,0 +1,12 @@
+The client for the software design document was The Gaming room. They had a web-based game called Draw it or Lose it. 
+They needed me to design a game similiar to the web-based game, but that would be available on different platforms such as Windows, Mac, Linux, and on mobile devices.
+The things that I did well in the development of the documentation was being able to fully understand the needs of the client. Once I was able to understand the needs and requirements of the client the rest of the document was easier to construct.
+The design constraints was another section that I did well as I was able to think of different constraints that may show up through the course of the project and even after the software was developed.
+The design contstraints along with the ULM Diagram helped with the design of the code. The UML provided the guidance on how to being the code and the requirments provide insights of what the client wanted in the code.
+If I could revise a section, I would revise the Development Requirements table. I would like to do more research on Windows, Mac, Linux, and on mobile devices to provide a more indepth explanations in the table or even right full new sections for each platform.
+Revising that section could have helped me develop a stronger reccomendations section.
+Reading the summary of the client's helped me develop the requirements section but it also helped design the constraints section. It is vital to implement the client's need when designing but it is important to talk to the client about the needs first.
+It is important to inform the client of the possible constraints due to their needs. Also, it is important to inform the client that their needs could increase the time frame and complexity of the client. 
+However, it is vital to implement all the needs and requirements set by the client so they can be happy with the end result. If a rquirement or need is not feasible it is important to communicate that with the client and come up with an alternative.
+I beleive the best way to approach designing software is to first get the needs and requirments of the client. Next would be do as much research as possible on the needs of the clients to come up with any design constraints or problems that may pop up.
+ALso the UML diagram is an essential step that must be completed before any code is written, as this can be seen as the backbone of designing the actual code.
